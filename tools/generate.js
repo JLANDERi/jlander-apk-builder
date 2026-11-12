@@ -1,4 +1,3 @@
-
 #!/usr/bin/env node
 'use strict';
 // JLANDER Web2APK - Android project generator (runs inside GitHub Actions).
